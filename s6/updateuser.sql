@@ -1,0 +1,1 @@
+UPDATE `users` SET `id`='5',`name`='mohammad',`lastname`='ahmadi' WHERE 1
